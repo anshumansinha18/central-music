@@ -1,9 +1,6 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
-import { CalculatorIcon } from "@heroicons/react/24/outline";
 import Carousel from "../Carousel/Carousel";
-import "./TopProducts.css";
-import ProductCard from "../ProductCard/ProductCard";
 import ProductsContainer from "../ProductsContainer/ProductsContainer";
 
 export default function TopCategoryProducts() {

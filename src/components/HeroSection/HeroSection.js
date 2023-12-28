@@ -1,5 +1,4 @@
 import React from "react";
-import "./HeroSection.css";
 import Header from "../Header/Header";
 import HeroSectionContainer from "./HeroSectionContainer";
 import HeroText from "./HeroText";

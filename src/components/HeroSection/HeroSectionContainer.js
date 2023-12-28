@@ -3,7 +3,7 @@ export default function HeroSectionContainer({ children }) {
     <div
       className="hero-img text-white bg-center bg-cover h-[80vh]"
       style={{
-        backgroundImage: `url(${process.env.PUBLIC_URL}/hero-img.png)`,
+        backgroundImage: `url(${process.env.PUBLIC_URL}/assets/hero-img.png)`,
       }}
     >
       {children}
